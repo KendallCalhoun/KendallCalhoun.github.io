@@ -3,16 +3,15 @@ output_dir: "."
 navbar:
   title: "Kendall Calhoun"
   left: 
-    -text: "Home"
-    icon: fa-home
-    href: research.html
-    -text: "Research"
-    icon: fa-area-chart
-    href: research.html
-    -text: "CV"
-    icon: fa_paper_plane
-    href: CV.html
-  
+    - text: "Home"
+      icon: fa-home
+      href: research.html
+    - text: "Research"
+      icon: fa-area-chart
+      href: research.html
+    - text: "CV"
+      icon: fa_paper_plane
+      href: CV.html
 output:
   html_document:
   theme: flatly
