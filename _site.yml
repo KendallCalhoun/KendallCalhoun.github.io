@@ -1,0 +1,16 @@
+name:"KendallCalhoun"
+output_dir: "."
+navbar:
+  title: "Kendall Calhoun"
+  left: 
+  -text: "Home"
+  icon: fa-home
+  index.html
+  -text: "Research"
+  icon:fa-area-chart
+  -text: "CV"
+  
+output:
+  html_document:
+  theme: flatly
+  css: 'style.css'
