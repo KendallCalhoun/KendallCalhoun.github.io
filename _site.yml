@@ -5,10 +5,13 @@ navbar:
   left: 
   -text: "Home"
   icon: fa-home
-  index.html
+  href: research.html
   -text: "Research"
   icon:fa-area-chart
+  href: research.html
   -text: "CV"
+  icon: fa_paper_plane
+  href: CV.html
   
 output:
   html_document:
